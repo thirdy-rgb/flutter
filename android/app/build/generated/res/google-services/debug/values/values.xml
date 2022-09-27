@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">350198073386-47h312gqa799klbsg8jna5ecd6hthev5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">350198073386</string>
+    <string name="google_api_key" translatable="false">AIzaSyBo2PJURWS6FjeOIFLxSSQyU6UMZJ8Ndd4</string>
+    <string name="google_app_id" translatable="false">1:350198073386:android:195826190b1a12dd371b53</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBo2PJURWS6FjeOIFLxSSQyU6UMZJ8Ndd4</string>
+    <string name="google_storage_bucket" translatable="false">navigatunew.appspot.com</string>
+    <string name="project_id" translatable="false">navigatunew</string>
+</resources>

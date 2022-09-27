@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350198073386",
+    "project_id": "navigatunew",
+    "storage_bucket": "navigatunew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350198073386:android:195826190b1a12dd371b53",
+        "android_client_info": {
+          "package_name": "com.example.responsive_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350198073386-47h312gqa799klbsg8jna5ecd6hthev5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo2PJURWS6FjeOIFLxSSQyU6UMZJ8Ndd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350198073386-47h312gqa799klbsg8jna5ecd6hthev5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
